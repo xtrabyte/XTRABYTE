@@ -58,7 +58,6 @@ You can download the source code directly to your Desktop. It will automatically
 ```
 cd Desktop
 
-git clone https://github.com/borzalom/xtrabytes.git
 ```
 
 ![Image](https://github.com/borzalom/XtraBYtes/blob/master/etc/images/1gitclone.png?raw=true)

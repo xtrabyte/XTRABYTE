@@ -2,7 +2,7 @@
 
 XTRABYTES - The Proof of Signature Blockchain Database
 
-https://xtrabytes.global/
+https://xtrabyte.global/
 
 XTRABYTES is a newly invented blockchain infrastructure that does not require any traditional type of mining support, such as: POW or POS. We have created something called Proof of Signature which ensures that 100% of all blocks will be signed by the system when they occur. The blocks are signed by the network of Master Nodes after verifying the transactions in the block. There are a total of 650 million XBY and there will never be more. 
 
@@ -10,4 +10,4 @@ The XTRABYTES system is a shared database storage system that will never break l
 
 ### More Information
 
-Join our Discord at https://discord.xtrabytes.global/
+Join our Discord at https://discord.xtrabyte.global/
